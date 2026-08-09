@@ -43,9 +43,4 @@ python main/main.py
 - `main/model_train/`: Directory for trained model files.
 - `main/webapp/`: [Under Development] Web interface templates.
 
-## Screenshot Guide
-To capture screenshots for your portfolio:
-1. Run `python main/main.py`.
-2. Select an image using the GUI.
-3. Click "Predict" to see the results.
-4. Take a screenshot (e.g., using Windows Snipping Tool) showing both the image and the analysis result.
+
